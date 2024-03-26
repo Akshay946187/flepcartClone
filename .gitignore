@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+.env
+vite_React/node_modules
+vite_React/package-lock.json
